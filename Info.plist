@@ -66,6 +66,21 @@
 	<string>移植</string>
 	<key>DeveloperIdentifier</key>
 	<string>52M7HZNUB3</string>
+	<key>Extension Updates</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.yourCompany.safari.electsys</string>
+			<key>CFBundleShortVersionString</key>
+			<string>1.0</string>
+			<key>CFBundleVersion</key>
+			<string>1</string>
+			<key>Developer Identifier</key>
+			<string>52M7HZNUB3</string>
+			<key>URL</key>
+			<string>http://gaocegege.com/electsys-safari/electsys.safariextz</string>
+		</dict>
+	</array>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Global Page</key>

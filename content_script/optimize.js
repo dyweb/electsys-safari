@@ -19,7 +19,8 @@ function set_left_scroll()
 	frameset2.outerHTML = '<frameset cols="140,*" frameborder="NO" border="0" framespacing="0"><frame src="sdtleft.aspx" name="leftFrame" frameborder="no" marginwidth="0" marginheight="0"><frame src="../newsboard/newsinside.aspx" name="main" frameborder="no" scrolling="auto" marginwidth="0" marginheight="0"></frameset>';
  */
  }
-function optimize_sdtleft()
+function optimize_sdtleft
+()
 {
 	
 

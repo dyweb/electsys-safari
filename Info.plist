@@ -55,6 +55,8 @@
 				<string>content_script/login_page.js</string>
 				<string>content_script/load.js</string>
 				<string>content_script/eductionList.js</string>
+				<string>content_script/lessonList.js</string>
+				<string>content_script/evalList.js</string>
 			</array>
 		</dict>
 		<key>Whitelist</key>
@@ -96,6 +98,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>http://developer.apple.com/safari/</string>
+	<string>https://github.com/gaocegege/electsys-safari</string>
 </dict>
 </plist>
